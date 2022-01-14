@@ -24,7 +24,7 @@
             <input type="submit" name = "btn" value="-">
             <input type="submit" name = "btn" value="*">
             <input type="submit" name = "btn" value="%">
-            <input type ="reset" value ="clear">
+     
         </form>
         <p>${message}</p>
               <a href="age">Age Calculator</a>
